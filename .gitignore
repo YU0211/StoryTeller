@@ -1,0 +1,11 @@
+dataset/
+gradio_word.ipynb
+Star-Rail/
+preprocess_train.bat
+video.md
+DDSP-SVC-master/exp
+*.pt
+
+*.wav
+DDSP-SVC-master/data/train/*
+*.zip
